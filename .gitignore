@@ -27,5 +27,10 @@ bin/*
 hs_err_pid*
 replay_pid*
 
+#addtional program
+.classpath
+.project
+.settings/*
+
 # End of https://www.toptal.com/developers/gitignore/api/java
 /bin/
